@@ -1,0 +1,26 @@
+publiccodeYmlVersion: "0.1"
+
+name: "Contactmomenten-api"
+url: "https://github.com/VNG-Realisatie/gemma-zaken"
+releaseDate: "2022-04-05"
+
+softwareType: standalone/backend
+
+platforms:
+  - web
+  
+categories:
+  - collaboration
+  - it-development
+  
+developmentStatus: beta
+
+description:
+  nl:
+    shortDescription: "Een API om contactmomenten met klanten te registreren."
+    documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/VNG-Realisatie/contactmomenten-api/master/src/openapi.yaml'
+    apiDocumentation: 'https://raw.githubusercontent.com/VNG-Realisatie/contactmomenten-api/master/src/openapi.yaml'
+  en:
+    shortDescription: "An API to register contact moments with clients."
+    documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/VNG-Realisatie/contactmomenten-api/master/src/openapi.yaml'
+    apiDocumentation: 'https://raw.githubusercontent.com/VNG-Realisatie/contactmomenten-api/master/src/openapi.yaml'
