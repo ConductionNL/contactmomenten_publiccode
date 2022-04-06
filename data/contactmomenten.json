@@ -1,0 +1,46 @@
+{
+  "collection": "https://raw.githubusercontent.com/VNG-Realisatie/contactmomenten-api/master/src/openapi.yaml",
+  "schemas": {
+    "ContactMoment":[
+      {
+        "properties": {
+          "id": "0c6dec3a-98a4-4ba1-aa54-b1ae0c00f75d",
+          "bronorganisatie": "999990639",
+          "registratiedatum": "2022-04-06T13:53:30",
+          "kanaal": "email",
+          "voorkeurskanaal": "email",
+          "voorkeurstaal": "nld",
+          "tekst": "bladiebla",
+          "onderwerpLinks": [
+            "https://www.example.com",
+            "https://www.conduction.nl"
+          ],
+          "initiatiefnemer": "gemeente",
+          "medewerker": "https://example.com",
+          "medewerkerIdentificatie": {
+            "identificatie": "abcdef1234567890",
+            "achternaam": "Vaak",
+            "voorletters": "K"
+          }
+        }
+      }
+    ],
+    "KlantContactMoment": [
+      {
+        "properties": {
+          "contactmoment": "http://localhost/api/contactmomenten/0c6dec3a-98a4-4ba1-aa54-b1ae0c00f75d",
+          "klant": "https://example.com"
+        }
+      }
+    ],
+    "ObjectContactMoment": [
+      {
+        "properties": {
+          "contactmoment": "http://localhost/api/contactmomenten/0c6dec3a-98a4-4ba1-aa54-b1ae0c00f75d",
+          "object": "https://example.com",
+          "objectType": "zaak"
+        }
+      }
+    ]
+  }
+}
