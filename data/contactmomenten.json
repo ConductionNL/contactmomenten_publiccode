@@ -5,6 +5,7 @@
       {
         "properties": {
           "uuid": "813e00c0-f15e-48e8-b04b-2e22b6806f48",
+          "id": "813e00c0-f15e-48e8-b04b-2e22b6806f48",
           "bronorganisatie": "999990639",
           "registratiedatum": "2022-04-06T13:53:30",
           "kanaal": "email",
@@ -27,6 +28,7 @@
       {
         "properties": {
           "uuid": "c25691d2-147e-4f3a-bba5-c4b17faffcb6",
+          "id": "c25691d2-147e-4f3a-bba5-c4b17faffcb6",
           "bronorganisatie": "2394872",
           "registratiedatum": "2022-04-06T13:53:30",
           "kanaal": "email",
@@ -49,6 +51,7 @@
       {
         "properties": {
           "uuid": "85ec98d2-c9e2-4bd6-8764-a04509f34836",
+          "id": "85ec98d2-c9e2-4bd6-8764-a04509f34836",
           "bronorganisatie": "829384921",
           "registratiedatum": "2022-04-06T13:53:30",
           "kanaal": "email",
@@ -71,6 +74,7 @@
       {
         "properties": {
           "uuid": "813e00c0-f15e-48e8-b04b-2e22b6806f48",
+          "id": "813e00c0-f15e-48e8-b04b-2e22b6806f48",
           "bronorganisatie": "938765290",
           "registratiedatum": "2022-04-06T13:53:30",
           "kanaal": "email",
@@ -93,6 +97,7 @@
       {
         "properties": {
           "uuid": "fc0f298d-c854-467d-9a60-ad5a0fc2718b",
+          "id": "fc0f298d-c854-467d-9a60-ad5a0fc2718b",
           "bronorganisatie": "097632674",
           "registratiedatum": "2022-04-06T13:53:30",
           "kanaal": "email",
@@ -115,6 +120,7 @@
       {
         "properties": {
           "uuid": "6b386456-8c25-4a4d-b3d0-2b2599f8251e",
+          "id": "6b386456-8c25-4a4d-b3d0-2b2599f8251e",
           "bronorganisatie": "298763986",
           "registratiedatum": "2022-04-06T13:53:30",
           "kanaal": "email",
@@ -137,6 +143,7 @@
       {
         "properties": {
           "uuid": "abccfbcf-2f48-4201-ab5f-4b9097475783",
+          "id": "abccfbcf-2f48-4201-ab5f-4b9097475783",
           "bronorganisatie": "298734983",
           "registratiedatum": "2022-04-06T13:53:30",
           "kanaal": "email",
@@ -159,6 +166,7 @@
       {
         "properties": {
           "uuid": "8461e04f-3546-45c0-9550-f56fb142bb85",
+          "id": "8461e04f-3546-45c0-9550-f56fb142bb85",
           "bronorganisatie": "384376543",
           "registratiedatum": "2022-04-06T13:53:30",
           "kanaal": "email",
