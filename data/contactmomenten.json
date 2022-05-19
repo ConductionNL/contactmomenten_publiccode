@@ -1,4 +1,5 @@
 {
+  "openapi": "3.0.0",
   "collection": "https://raw.githubusercontent.com/VNG-Realisatie/contactmomenten-api/master/src/openapi.yaml",
   "schemas": {
     "ContactMoment":[
