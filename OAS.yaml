@@ -109,6 +109,24 @@ paths:
         required: false
         schema:
           type: string
+      - name: startdatum
+        in: query
+        description: De datum en het tijdstip waarop het CONTACTMOMENT is gestart.
+        required: false
+        schema:
+          type: string
+      - name: einddatum
+        in: query
+        description: De datum en het tijdstip waarop het CONTACTMOMENT is geëindigd.
+        required: false
+        schema:
+          type: string
+      - name: resultaat
+        in: query
+        description: Url verwijzing naar referentielijsten api.
+        required: false
+        schema:
+          type: string
       - name: registratiedatum
         in: query
         description: De datum en het tijdstip waarop het CONTACTMOMENT is geregistreerd.
@@ -190,6 +208,12 @@ paths:
           - -klant
           - registratiedatum
           - -registratiedatum
+          - startdatum
+          - -startdatum
+          - einddatum
+          - -einddatum
+          - resultaat
+          - -resultaat
           - kanaal
           - -kanaal
           - voorkeurskanaal
@@ -1495,6 +1519,20 @@ components:
           description: De datum en het tijdstip waarop het CONTACTMOMENT is geregistreerd.
           type: string
           format: date-time
+        startdatum:
+          title: Startdatum
+          description: De datum en het tijdstip waarop het CONTACTMOMENT is gestart.
+          type: string
+          format: date-time
+        einddatum:
+          title: Einddatum
+          description: De datum en het tijdstip waarop het CONTACTMOMENT is geëindigd.
+          type: string
+          format: date-time
+        resultaat:
+          title: Resultaat
+          description: Url verwijzing naar referentielijsten api.
+          type: string
         kanaal:
           title: Kanaal
           description: Het communicatiekanaal waarlangs het CONTACTMOMENT gevoerd
