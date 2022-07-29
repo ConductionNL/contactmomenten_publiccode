@@ -2146,6 +2146,10 @@
             "items": {
               "$ref": "#/components/schemas/ObjectContactMoment"
             }
+          },
+          "afwijkendOnderwerp": {
+            "type": "string",
+            "maxLength": 2555
           }
         },
         "required": [
