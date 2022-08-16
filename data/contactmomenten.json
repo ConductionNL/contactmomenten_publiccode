@@ -4,175 +4,175 @@
   "schemas": {
     "ContactMoment": [
       {
-	"properties": {
-	  "uuid": "813e00c0-f15e-48e8-b04b-2e22b6806f48",
-	  "id": "813e00c0-f15e-48e8-b04b-2e22b6806f48",
-	  "bronorganisatie": "999990639",
-	  "registratiedatum": "2022-07-25T08:35:00",
-	  "startdatum": "2022-07-25T08:15:00",
-	  "einddatum": "2022-07-25T08:35:00",
-	  "kanaal": "chat",
-	  "tekst": "Wat is de status van mijn melding over de stoep? Klant stuurt chatbericht met vraag naar status van de melding. Zaak opgezocht, en gezien dat deze nog niet is opgepakt. Notitie gemaakt bij de zaak.",
-	  "onderwerpLinks": [
-	    "parkeeropgave toetsing"
-	  ],
-	  "initiatiefnemer": "klant",
-	  "medewerker": "https://example.com",
-	  "medewerkerIdentificatie": {
-	    "identificatie": "4405de1e-ace1-488e-b6d5-7fdd72bcfb18",
-	    "achternaam": "Zierikzee",
-	    "voorletters": "P"
-	  },
-	  "resultaat": "Zelfstandig afgehandeld",
-	  "gesprek": "1"
-	}
-      },
-      {
-	"properties": {
-	  "uuid": "01b421c1-2490-44e1-9947-834b8a4da761",
-	  "id": "01b421c1-2490-44e1-9947-834b8a4da761",
-	  "bronorganisatie": "999990639",
-	  "registratiedatum": "2022-07-27T13:40:00",
-	  "startdatum": "2022-07-27T13:15:00",
-	  "einddatum": "2022-07-27T13:40:00",
-	  "kanaal": "Telefoon",
-	  "tekst": "Maecenas ullamcorper, dui et placerat feugiat, eros pede varius nisi, condimentum viverra felis nunc et lorem. \n\nNulla sit amet est.",
-	  "medewerkerIdentificatie": {
-	    "identificatie": "8e95b699-817b-478c-a55b-4ad0af31a308",
-	    "achternaam": "Avsaroglu",
-	    "voorletters": "A"
-	  },
-	  "resultaat": "zelfstandig na ruggenspraak",
-	  "gesprek": "12345"
-	}
-      },
-      {
-	"properties": {
-	  "uuid": "85ec98d2-c9e2-4bd6-8764-a04509f34836",
-	  "id": "85ec98d2-c9e2-4bd6-8764-a04509f34836",
-	  "bronorganisatie": "999990639",
-	  "registratiedatum": "2022-07-27T13:40:00",
-	  "startdatum": "2022-07-27T13:15:00",
-	  "einddatum": "2022-07-27T13:40:00",
-	  "kanaal": "Telefoon",
-	  "tekst": "Phasellus volutpat, metus eget egestas mollis, lacus lacus blandit dui, id egestas quam mauris ut lacus. Praesent turpis. Morbi ac felis. Aliquam eu nunc.",
-	  "medewerkerIdentificatie": {
-	    "identificatie": "8e95b699-817b-478c-a55b-4ad0af31a308",
-	    "achternaam": "Avsaroglu",
-	    "voorletters": "A"
-	  },
-	  "resultaat": "Terugbelnotitie gemaakt",
-	  "gesprek": "12345"
-	}
-      },
-      {
-	"properties": {
-	  "uuid": "9d0f9af8-6b5b-4726-9549-cac9dafa2ee0",
-	  "id": "9d0f9af8-6b5b-4726-9549-cac9dafa2ee0",
-	  "bronorganisatie": "999990639",
-	  "registratiedatum": "2022-07-20T15:50:00",
-	  "startdatum": "2022-07-20T14:49:00",
-	  "einddatum": "2022-07-20T15:50:00",
-	  "kanaal": "Chat",
-	  "tekst": "Vivamus laoreet. Curabitur a felis in nunc fringilla tristique. Sed fringilla mauris sit amet nibh. \n\nSed lectus. Nunc nulla. Nulla neque dolor, sagittis eget, iaculis quis, molestie non, velit.",
-	  "medewerkerIdentificatie": {
-	    "identificatie": "8e95b699-817b-478c-a55b-4ad0af31a308",
-	    "achternaam": "Veld",
-            "voorvoegselAchternaam": "in 't",
-	    "voorletters": "R"
-	  },
-	  "resultaat": "Terugbelnotitie gemaakt",
-	  "gesprek": "22331"
-	}
-      },
-      {
-	"properties": {
-	  "uuid": "fc0f298d-c854-467d-9a60-ad5a0fc2718b",
-	  "id": "fc0f298d-c854-467d-9a60-ad5a0fc2718b",
-	  "bronorganisatie": "999990639",
-	  "registratiedatum": "2022-08-01T10:23:00",
-	  "startdatum": "2022-08-01T10:16:00",
-	  "einddatum": "2022-08-01T10:23:00",
-	  "kanaal": "Telefoon",
-	  "tekst": "Fusce commodo aliquam arcu. Praesent egestas tristique nibh. Fusce a quam. \n\nAenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Nunc nulla. Duis lobortis massa imperdiet quam.",
-	  "medewerkerIdentificatie": {
-	    "identificatie": "8e95b699-817b-478c-a55b-4ad0af31a308",
-	    "achternaam": "Suleiman",
-	    "voorletters": "A."
-	  },
-	  "resultaat": "Doorverbonden",
-	  "gesprek": "47651"
-	}
-      },
-      {
-	"properties": {
-	  "uuid": "dd040008-bfa3-47e3-a5c2-a4dcd67d2074",
-	  "id": "dd040008-bfa3-47e3-a5c2-a4dcd67d2074",
-	  "bronorganisatie": "999990639",
-	  "registratiedatum": "2022-08-04T10:47:00",
-	  "startdatum": "2022-08-04T10:42:00",
-	  "einddatum": "2022-08-04T10:47:00",
-	  "kanaal": "Telefoon",
-	  "tekst": "Wilde verifiëren of de aanvraag goed is binnengekomen. Dat was het geval.",
-	  "initiatiefnemer": "klant",
-	  "medewerker": "https://example.com",
-	  "medewerkerIdentificatie": {
-	    "identificatie": "8e95b699-817b-478c-a55b-4ad0af31a308",
-	    "achternaam": "Veld",
-	    "voorvoegselAchternaam": "in 't",
-	    "voorletters": "R"
-	  },
-	  "resultaat": "Zelfstandig afgehandeld",
-	  "gesprek": "89463"
-	}
-      }	
-    ],
-    "KlantContactMoment": [
-      {
-	"properties": {
-	  "contactmoment": "/api/contactmomenten/813e00c0-f15e-48e8-b04b-2e22b6806f48",
-	  "klant": "/api/klanten/dfba160f-bbc2-4be0-8b13-dd62b334c050"
-	}
-      },
-      {
-	"properties": {
-	  "contactmoment": "/api/contactmomenten/01b421c1-2490-44e1-9947-834b8a4da761",
-	  "klant": "/api/klanten/e914352c-fc11-4fc4-a5e2-d50572920235"
+        "properties": {
+          "uuid": "813e00c0-f15e-48e8-b04b-2e22b6806f48",
+          "id": "813e00c0-f15e-48e8-b04b-2e22b6806f48",
+          "bronorganisatie": "999990639",
+          "registratiedatum": "2022-07-25T08:35:00",
+          "startdatum": "2022-07-25T08:15:00",
+          "einddatum": "2022-07-25T08:35:00",
+          "kanaal": "chat",
+          "tekst": "Wat is de status van mijn melding over de stoep? Klant stuurt chatbericht met vraag naar status van de melding. Zaak opgezocht, en gezien dat deze nog niet is opgepakt. Notitie gemaakt bij de zaak.",
+          "onderwerpLinks": [
+            "parkeeropgave toetsing"
+          ],
+          "initiatiefnemer": "klant",
+          "medewerker": "https://example.com",
+          "medewerkerIdentificatie": {
+            "identificatie": "4405de1e-ace1-488e-b6d5-7fdd72bcfb18",
+            "achternaam": "Zierikzee",
+            "voorletters": "P"
+          },
+          "resultaat": "Zelfstandig afgehandeld",
+          "gesprek": "1"
         }
       },
       {
-	"properties": {
-	  "contactmoment": "/api/contactmomenten/85ec98d2-c9e2-4bd6-8764-a04509f34836",
-	  "klant": "/api/klanten/e914352c-fc11-4fc4-a5e2-d50572920235"
-	}
+        "properties": {
+          "uuid": "01b421c1-2490-44e1-9947-834b8a4da761",
+          "id": "01b421c1-2490-44e1-9947-834b8a4da761",
+          "bronorganisatie": "999990639",
+          "registratiedatum": "2022-07-27T13:40:00",
+          "startdatum": "2022-07-27T13:15:00",
+          "einddatum": "2022-07-27T13:40:00",
+          "kanaal": "Telefoon",
+          "tekst": "Maecenas ullamcorper, dui et placerat feugiat, eros pede varius nisi, condimentum viverra felis nunc et lorem. \n\nNulla sit amet est.",
+          "medewerkerIdentificatie": {
+            "identificatie": "8e95b699-817b-478c-a55b-4ad0af31a308",
+            "achternaam": "Avsaroglu",
+            "voorletters": "A"
+          },
+          "resultaat": "zelfstandig na ruggenspraak",
+          "gesprek": "12345"
+        }
       },
       {
-	"properties": {
-	  "contactmoment": "/api/contactmomenten/9d0f9af8-6b5b-4726-9549-cac9dafa2ee0",
-	  "klant": "/api/klanten/3e914352c-fc11-4fc4-a5e2-d50572920235"
-	}
+        "properties": {
+          "uuid": "85ec98d2-c9e2-4bd6-8764-a04509f34836",
+          "id": "85ec98d2-c9e2-4bd6-8764-a04509f34836",
+          "bronorganisatie": "999990639",
+          "registratiedatum": "2022-07-27T13:40:00",
+          "startdatum": "2022-07-27T13:15:00",
+          "einddatum": "2022-07-27T13:40:00",
+          "kanaal": "Telefoon",
+          "tekst": "Phasellus volutpat, metus eget egestas mollis, lacus lacus blandit dui, id egestas quam mauris ut lacus. Praesent turpis. Morbi ac felis. Aliquam eu nunc.",
+          "medewerkerIdentificatie": {
+            "identificatie": "8e95b699-817b-478c-a55b-4ad0af31a308",
+            "achternaam": "Avsaroglu",
+            "voorletters": "A"
+          },
+          "resultaat": "Terugbelnotitie gemaakt",
+          "gesprek": "12345"
+        }
       },
       {
-	"properties": {
-	  "contactmoment": "/api/contactmomenten/fc0f298d-c854-467d-9a60-ad5a0fc2718b",
-	  "klant": "/api/klanten/3e914352c-fc11-4fc4-a5e2-d50572920235"
-	}
+        "properties": {
+          "uuid": "9d0f9af8-6b5b-4726-9549-cac9dafa2ee0",
+          "id": "9d0f9af8-6b5b-4726-9549-cac9dafa2ee0",
+          "bronorganisatie": "999990639",
+          "registratiedatum": "2022-07-20T15:50:00",
+          "startdatum": "2022-07-20T14:49:00",
+          "einddatum": "2022-07-20T15:50:00",
+          "kanaal": "Chat",
+          "tekst": "Vivamus laoreet. Curabitur a felis in nunc fringilla tristique. Sed fringilla mauris sit amet nibh. \n\nSed lectus. Nunc nulla. Nulla neque dolor, sagittis eget, iaculis quis, molestie non, velit.",
+          "medewerkerIdentificatie": {
+            "identificatie": "8e95b699-817b-478c-a55b-4ad0af31a308",
+            "achternaam": "Veld",
+            "voorvoegselAchternaam": "in 't",
+            "voorletters": "R"
+          },
+          "resultaat": "Terugbelnotitie gemaakt",
+          "gesprek": "22331"
+        }
+      },
+      {
+        "properties": {
+          "uuid": "fc0f298d-c854-467d-9a60-ad5a0fc2718b",
+          "id": "fc0f298d-c854-467d-9a60-ad5a0fc2718b",
+          "bronorganisatie": "999990639",
+          "registratiedatum": "2022-08-01T10:23:00",
+          "startdatum": "2022-08-01T10:16:00",
+          "einddatum": "2022-08-01T10:23:00",
+          "kanaal": "Telefoon",
+          "tekst": "Fusce commodo aliquam arcu. Praesent egestas tristique nibh. Fusce a quam. \n\nAenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Nunc nulla. Duis lobortis massa imperdiet quam.",
+          "medewerkerIdentificatie": {
+            "identificatie": "8e95b699-817b-478c-a55b-4ad0af31a308",
+            "achternaam": "Suleiman",
+            "voorletters": "A."
+          },
+          "resultaat": "Doorverbonden",
+          "gesprek": "47651"
+        }
+      },
+      {
+        "properties": {
+          "uuid": "dd040008-bfa3-47e3-a5c2-a4dcd67d2074",
+          "id": "dd040008-bfa3-47e3-a5c2-a4dcd67d2074",
+          "bronorganisatie": "999990639",
+          "registratiedatum": "2022-08-04T10:47:00",
+          "startdatum": "2022-08-04T10:42:00",
+          "einddatum": "2022-08-04T10:47:00",
+          "kanaal": "Telefoon",
+          "tekst": "Wilde verifiëren of de aanvraag goed is binnengekomen. Dat was het geval.",
+          "initiatiefnemer": "klant",
+          "medewerker": "https://example.com",
+          "medewerkerIdentificatie": {
+            "identificatie": "8e95b699-817b-478c-a55b-4ad0af31a308",
+            "achternaam": "Veld",
+            "voorvoegselAchternaam": "in 't",
+            "voorletters": "R"
+          },
+          "resultaat": "Zelfstandig afgehandeld",
+          "gesprek": "89463"
+        }
+      }        
+    ],
+    "KlantContactMoment": [
+      {
+        "properties": {
+          "contactmoment": "/api/contactmomenten/813e00c0-f15e-48e8-b04b-2e22b6806f48",
+          "klant": "/api/klanten/dfba160f-bbc2-4be0-8b13-dd62b334c050"
+        }
+      },
+      {
+        "properties": {
+          "contactmoment": "/api/contactmomenten/01b421c1-2490-44e1-9947-834b8a4da761",
+          "klant": "/api/klanten/e914352c-fc11-4fc4-a5e2-d50572920235"
+        }
+      },
+      {
+        "properties": {
+          "contactmoment": "/api/contactmomenten/85ec98d2-c9e2-4bd6-8764-a04509f34836",
+          "klant": "/api/klanten/e914352c-fc11-4fc4-a5e2-d50572920235"
+        }
+      },
+      {
+        "properties": {
+          "contactmoment": "/api/contactmomenten/9d0f9af8-6b5b-4726-9549-cac9dafa2ee0",
+          "klant": "/api/klanten/3e914352c-fc11-4fc4-a5e2-d50572920235"
+        }
+      },
+      {
+        "properties": {
+          "contactmoment": "/api/contactmomenten/fc0f298d-c854-467d-9a60-ad5a0fc2718b",
+          "klant": "/api/klanten/3e914352c-fc11-4fc4-a5e2-d50572920235"
+        }
       }
     ],
     "ObjectContactMoment": [
       {
-	"properties": {
-	  "contactmoment": "/api/contactmomenten/813e00c0-f15e-48e8-b04b-2e22b6806f48",
-	  "object": "/api/zaken/1b8b2c9c-87ae-49f6-8280-87281c25ae48",
-	  "objectType": "zaak"
+        "properties": {
+          "contactmoment": "/api/contactmomenten/813e00c0-f15e-48e8-b04b-2e22b6806f48",
+          "object": "/api/zaken/1b8b2c9c-87ae-49f6-8280-87281c25ae48",
+          "objectType": "zaak"
         }
       },
       {
-	"properties": {
-	  "contactmoment": "/api/contactmomenten/dd040008-bfa3-47e3-a5c2-a4dcd67d2074",
-	  "object": "/api/zaken/58e07f18-f5f2-4183-95ef-b6fecbb3da91",
-	  "objectType": "zaak"
-	}
+        "properties": {
+          "contactmoment": "/api/contactmomenten/dd040008-bfa3-47e3-a5c2-a4dcd67d2074",
+          "object": "/api/zaken/58e07f18-f5f2-4183-95ef-b6fecbb3da91",
+          "objectType": "zaak"
+        }
       }
     ]
   }
