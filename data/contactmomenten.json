@@ -17,7 +17,6 @@
             "parkeeropgave toetsing"
           ],
           "initiatiefnemer": "klant",
-          "medewerker": "https://example.com",
           "medewerkerIdentificatie": {
             "identificatie": "4405de1e-ace1-488e-b6d5-7fdd72bcfb18",
             "achternaam": "Zierikzee",
@@ -115,7 +114,6 @@
           "kanaal": "Telefoon",
           "tekst": "Wilde verifiëren of de aanvraag goed is binnengekomen. Dat was het geval.",
           "initiatiefnemer": "klant",
-          "medewerker": "https://example.com",
           "medewerkerIdentificatie": {
             "identificatie": "8e95b699-817b-478c-a55b-4ad0af31a308",
             "achternaam": "Veld",
