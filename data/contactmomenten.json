@@ -23,7 +23,10 @@
             "voorletters": "P"
           },
           "resultaat": "Zelfstandig afgehandeld",
-          "gesprek": "1"
+          "gesprek": "1",
+          "primaireVraag": "e106cae8-9482-4248-a341-17770a85918c",
+          "primaireVraagWeergave": "titel van kennisartikel/nieuwsbericht",
+          "afwijkendOnderwerp": "de eigenlijke vraag van de klant"
         }
       },
       {
@@ -42,7 +45,10 @@
             "voorletters": "A"
           },
           "resultaat": "zelfstandig na ruggenspraak",
-          "gesprek": "12345"
+          "gesprek": "12345",
+          "primaireVraag": "e106cae8-9482-4248-a341-17770a85918c",
+          "primaireVraagWeergave": "titel van kennisartikel/nieuwsbericht",
+          "afwijkendOnderwerp": "de eigenlijke vraag van de klant"
         }
       },
       {
@@ -61,7 +67,10 @@
             "voorletters": "A"
           },
           "resultaat": "Terugbelnotitie gemaakt",
-          "gesprek": "12345"
+          "gesprek": "12345",
+          "primaireVraag": "e106cae8-9482-4248-a341-17770a85918c",
+          "primaireVraagWeergave": "titel van kennisartikel/nieuwsbericht",
+          "afwijkendOnderwerp": "de eigenlijke vraag van de klant"
         }
       },
       {
@@ -81,7 +90,10 @@
             "voorletters": "R"
           },
           "resultaat": "Terugbelnotitie gemaakt",
-          "gesprek": "22331"
+          "gesprek": "22331",
+          "primaireVraag": "e106cae8-9482-4248-a341-17770a85918c",
+          "primaireVraagWeergave": "titel van kennisartikel/nieuwsbericht",
+          "afwijkendOnderwerp": "de eigenlijke vraag van de klant"
         }
       },
       {
@@ -100,7 +112,10 @@
             "voorletters": "A."
           },
           "resultaat": "Doorverbonden",
-          "gesprek": "47651"
+          "gesprek": "47651",
+          "primaireVraag": "e106cae8-9482-4248-a341-17770a85918c",
+          "primaireVraagWeergave": "titel van kennisartikel/nieuwsbericht",
+          "afwijkendOnderwerp": "de eigenlijke vraag van de klant"
         }
       },
       {
@@ -121,7 +136,10 @@
             "voorletters": "R"
           },
           "resultaat": "Zelfstandig afgehandeld",
-          "gesprek": "89463"
+          "gesprek": "89463",
+          "primaireVraag": "e106cae8-9482-4248-a341-17770a85918c",
+          "primaireVraagWeergave": "titel van kennisartikel/nieuwsbericht",
+          "afwijkendOnderwerp": "de eigenlijke vraag van de klant"
         }
       }        
     ],
